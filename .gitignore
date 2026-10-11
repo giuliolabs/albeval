@@ -218,3 +218,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- AlbEval ---
+.env
+.venv/
+data/raw/*
+data/interim/*
+data/train/*
+!data/**/.gitkeep
+data/benchmark/hidden/
+results/raw_outputs/*
+!results/raw_outputs/.gitkeep
+*.safetensors
+*.bin
+*.gguf
+checkpoints/
+wandb/
+mlruns/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.pdf

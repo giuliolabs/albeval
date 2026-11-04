@@ -1,0 +1,491 @@
+\begin{thebibliography}{}
+\renewcommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+
+\bibitem [\protect \citeauthoryear {%
+Bandarkar%
+\ \protect \BOthers {.}}{%
+Bandarkar%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+bandarkar-etal-2024-belebele}
+\APACinsertmetastar {%
+bandarkar-etal-2024-belebele}%
+\begin{APACrefauthors}%
+Bandarkar, L.%
+, Liang, D.%
+, Muller, B.%
+, Artetxe, M.%
+, Shukla, S.N.%
+, Husa, D.%
+\BDBL {}Khabsa, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {B}elebele Benchmark: a Parallel Reading
+  Comprehension Dataset in 122 Language Variants} {The {B}elebele benchmark: a
+  parallel reading comprehension dataset in 122 language variants}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Proceedings of the 62nd Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)} {Proceedings of the 62nd
+  annual meeting of the association for computational linguistics (volume 1:
+  Long papers)}\ (\BPGS\ 749--775).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cohen%
+}{%
+Cohen%
+}{%
+{\protect \APACyear {1968}}%
+}]{%
+cohen1968weighted}
+\APACinsertmetastar {%
+cohen1968weighted}%
+\begin{APACrefauthors}%
+Cohen, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1968}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Weighted kappa: Nominal scale agreement with provision
+  for scaled disagreement or partial credit} {Weighted kappa: Nominal scale
+  agreement with provision for scaled disagreement or partial credit}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Bulletin}{70}{4}{213--220,}
+\newblock
+\begin{APACrefDOI} \doi{10.1037/h0026256} \end{APACrefDOI}
+\newblock
+
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Efron%
+\ \BBA {} Tibshirani%
+}{%
+Efron%
+\ \BBA {} Tibshirani%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+efron1993bootstrap}
+\APACinsertmetastar {%
+efron1993bootstrap}%
+\begin{APACrefauthors}%
+Efron, B.%
+\BCBT {}\ \BBA {} Tibshirani, R.J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1993}.
+\newblock
+\APACrefbtitle {An Introduction to the Bootstrap} {An introduction to the
+  bootstrap}.
+\newblock
+\APACaddressPublisher{}{Chapman \& Hall}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Gemma Team}%
+}{%
+{Gemma Team}%
+}{%
+{\protect \APACyear {2025}}%
+}]{%
+gemma3}
+\APACinsertmetastar {%
+gemma3}%
+\begin{APACrefauthors}%
+{Gemma Team}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+\APACrefbtitle {Gemma 3 Technical Report.} {Gemma 3 technical report.}
+\newblock
+\APAChowpublished {arXiv preprint arXiv:2503.19786}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Grattafiori%
+\ \protect \BOthers {.}}{%
+Grattafiori%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+grattafiori2024llama}
+\APACinsertmetastar {%
+grattafiori2024llama}%
+\begin{APACrefauthors}%
+Grattafiori, A.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {The {L}lama 3 Herd of Models.} {The {L}lama 3 herd of models.}
+\newblock
+\APAChowpublished {arXiv preprint arXiv:2407.21783}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jiang%
+\ \protect \BOthers {.}}{%
+Jiang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+jiang2023mistral}
+\APACinsertmetastar {%
+jiang2023mistral}%
+\begin{APACrefauthors}%
+Jiang, A.Q.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Mistral 7{B}.} {Mistral 7{B}.}
+\newblock
+\APAChowpublished {arXiv preprint arXiv:2310.06825}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Myung%
+\ \protect \BOthers {.}}{%
+Myung%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+myung2024blend}
+\APACinsertmetastar {%
+myung2024blend}%
+\begin{APACrefauthors}%
+Myung, J.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{BLE}n{D}: A Benchmark for {LLM}s on Everyday Knowledge
+  in Diverse Cultures and Languages} {{BLE}n{D}: A benchmark for {LLM}s on
+  everyday knowledge in diverse cultures and languages}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Advances in Neural Information Processing Systems 37, Datasets
+  and Benchmarks Track.} {Advances in neural information processing systems 37,
+  datasets and benchmarks track.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{NLLB Team}%
+}{%
+{NLLB Team}%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+nllb2022}
+\APACinsertmetastar {%
+nllb2022}%
+\begin{APACrefauthors}%
+{NLLB Team}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {No Language Left Behind: Scaling Human-Centered Machine
+  Translation.} {No language left behind: Scaling human-centered machine
+  translation.}
+\newblock
+\APAChowpublished {arXiv preprint arXiv:2207.04672}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Panickssery%
+, Bowman%
+\BCBL {}\ \BBA {} Feng%
+}{%
+Panickssery%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+panickssery2024llm}
+\APACinsertmetastar {%
+panickssery2024llm}%
+\begin{APACrefauthors}%
+Panickssery, A.%
+, Bowman, S.R.%
+\BCBL {} Feng, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{LLM} Evaluators Recognize and Favor Their Own
+  Generations} {{LLM} evaluators recognize and favor their own
+  generations}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Advances in Neural Information Processing Systems 37.}
+  {Advances in neural information processing systems 37.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pezeshkpour%
+\ \BBA {} Hruschka%
+}{%
+Pezeshkpour%
+\ \BBA {} Hruschka%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+pezeshkpour-hruschka-2024-large}
+\APACinsertmetastar {%
+pezeshkpour-hruschka-2024-large}%
+\begin{APACrefauthors}%
+Pezeshkpour, P.%
+\BCBT {}\ \BBA {} Hruschka, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Large Language Models Sensitivity to The Order of
+  Options in Multiple-Choice Questions} {Large language models sensitivity to
+  the order of options in multiple-choice questions}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Findings of the Association for Computational Linguistics:
+  NAACL 2024.} {Findings of the association for computational linguistics:
+  Naacl 2024.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Popovi{\'c}%
+}{%
+Popovi{\'c}%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+popovic-2015-chrf}
+\APACinsertmetastar {%
+popovic-2015-chrf}%
+\begin{APACrefauthors}%
+Popovi{\'c}, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {chr{F}: character n-gram {F}-score for automatic {MT}
+  evaluation} {chr{F}: character n-gram {F}-score for automatic {MT}
+  evaluation}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Proceedings of the Tenth Workshop on Statistical Machine
+  Translation} {Proceedings of the tenth workshop on statistical machine
+  translation}\ (\BPGS\ 392--395).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Post%
+}{%
+Post%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+post-2018-call}
+\APACinsertmetastar {%
+post-2018-call}%
+\begin{APACrefauthors}%
+Post, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Call for Clarity in Reporting {BLEU} Scores} {A call
+  for clarity in reporting {BLEU} scores}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Proceedings of the Third Conference on Machine Translation:
+  Research Papers} {Proceedings of the third conference on machine translation:
+  Research papers}\ (\BPGS\ 186--191).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Qwen Team}%
+}{%
+{Qwen Team}%
+}{%
+{\protect \APACyear {2024}}%
+}]{%
+qwen25}
+\APACinsertmetastar {%
+qwen25}%
+\begin{APACrefauthors}%
+{Qwen Team}%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACrefbtitle {Qwen2.5 Technical Report.} {Qwen2.5 technical report.}
+\newblock
+\APAChowpublished {arXiv preprint arXiv:2412.15115}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Romanou%
+\ \protect \BOthers {.}}{%
+Romanou%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+romanou2025include}
+\APACinsertmetastar {%
+romanou2025include}%
+\begin{APACrefauthors}%
+Romanou, A.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{INCLUDE}: Evaluating Multilingual Language
+  Understanding with Regional Knowledge} {{INCLUDE}: Evaluating multilingual
+  language understanding with regional knowledge}.{\BBCQ}
+\newblock
+ \APACrefbtitle {The Thirteenth International Conference on Learning
+  Representations (ICLR).} {The thirteenth international conference on learning
+  representations (iclr).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Singh%
+\ \protect \BOthers {.}}{%
+Singh%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+singh-etal-2025-global}
+\APACinsertmetastar {%
+singh-etal-2025-global}%
+\begin{APACrefauthors}%
+Singh, S.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Global {MMLU}: Understanding and Addressing Cultural and
+  Linguistic Biases in Multilingual Evaluation} {Global {MMLU}: Understanding
+  and addressing cultural and linguistic biases in multilingual
+  evaluation}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Proceedings of the 63rd Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers).} {Proceedings of the 63rd
+  annual meeting of the association for computational linguistics (volume 1:
+  Long papers).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Srivastava%
+\ \protect \BOthers {.}}{%
+Srivastava%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+srivastava2023beyond}
+\APACinsertmetastar {%
+srivastava2023beyond}%
+\begin{APACrefauthors}%
+Srivastava, A.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Beyond the Imitation Game: Quantifying and Extrapolating
+  the Capabilities of Language Models} {Beyond the imitation game: Quantifying
+  and extrapolating the capabilities of language models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transactions on Machine Learning Research}{}{}{,}
+\newblock
+\begin{APACrefDOI} \doi{10.48550/arXiv.2206.04615} \end{APACrefDOI}
+\newblock
+
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+C.~Zheng%
+, Zhou%
+, Meng%
+, Zhou%
+\BCBL {}\ \BBA {} Huang%
+}{%
+C.~Zheng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2024}}%
+}]{%
+zheng2024large}
+\APACinsertmetastar {%
+zheng2024large}%
+\begin{APACrefauthors}%
+Zheng, C.%
+, Zhou, H.%
+, Meng, F.%
+, Zhou, J.%
+\BCBL {} Huang, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Large Language Models Are Not Robust Multiple Choice
+  Selectors} {Large language models are not robust multiple choice
+  selectors}.{\BBCQ}
+\newblock
+ \APACrefbtitle {The Twelfth International Conference on Learning
+  Representations (ICLR).} {The twelfth international conference on learning
+  representations (iclr).}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+L.~Zheng%
+\ \protect \BOthers {.}}{%
+L.~Zheng%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2023}}%
+}]{%
+zheng2023judging}
+\APACinsertmetastar {%
+zheng2023judging}%
+\begin{APACrefauthors}%
+Zheng, L.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Judging {LLM}-as-a-Judge with {MT}-Bench and Chatbot
+  Arena} {Judging {LLM}-as-a-judge with {MT}-bench and chatbot arena}.{\BBCQ}
+\newblock
+ \APACrefbtitle {Advances in Neural Information Processing Systems 36, Datasets
+  and Benchmarks Track.} {Advances in neural information processing systems 36,
+  datasets and benchmarks track.}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -242,3 +242,5 @@ paper/*.blg
 paper/*.out
 paper/*.pdf
 Claude outputs/
+paper/**/cover_letter*
+paper/**/*.zip
